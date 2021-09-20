@@ -1,4 +1,5 @@
-*
+*Alunos: Gustavo Carvalho Rodrigues, Matheus Sobreira dos Santos,Lucas Moraes Aguiar, Victoria Cristinne Andrade Alves
+
 	Programação em C - Lista encadeada 
 	Funcionalidades:
 		1) Implementar uma lista encadeada simples, com operações de inserção e remoção no início, meio e fim da fila, além de busca de elementos.
